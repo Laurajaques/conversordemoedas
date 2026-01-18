@@ -83,6 +83,4 @@ Laura Jaques
 
 Laura Jaques
 
-📄 Licença
 
-Este projeto está sob a licença MIT, permitindo seu uso para fins educacionais e acadêmicos.
